@@ -1,0 +1,4 @@
+
+
+https://github.com/dolmond/AutoGreeterMod
+main,CLASS,com.dolmondboi.com.autogreetermod.AutoGreeterMod,net.fabricmc.api.ModInitializer;client,CLASS,com.dolmondboi.com.autogreetermod.client.AutoGreeterModClient,net.fabricmc.api.ClientModInitializer
